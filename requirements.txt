@@ -1,9 +1,25 @@
+Bibliotecas utilizadas no notebook do projeto
+# Instale com: pip install -r requirements.txt
+
+# Manipulação e análise de dados
 numpy
 pandas
+
+# Visualização de dados
 matplotlib
+
+# Aprendizado de máquina: SVM, pré-processamento, validação e métricas
 scikit-learn
+
+# Testes e modelos estatísticos complementares
 scipy
 statsmodels
-ipython
-jupyter
+
+# Acesso à base hospedada no Kaggle
 kagglehub
+
+# Execução e exibição de resultados no Jupyter Notebook
+ipython
+ipykernel
+jupyter
+

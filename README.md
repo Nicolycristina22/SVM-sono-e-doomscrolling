@@ -46,11 +46,7 @@ Resultados obtidos no conjunto de teste:
 
 A validação cruzada apresentou acurácia média de **81,9%**.
 
-### Classificação em três classes — análise complementar
 
-Na classificação das categorias *Good*, *Fair* e *Poor*, a acurácia obtida foi de **59,0%**.
-
-As duas tarefas são apresentadas separadamente porque representam problemas de classificação diferentes.
 
 ## Tecnologias utilizadas
 
@@ -74,16 +70,9 @@ As duas tarefas são apresentadas separadamente porque representam problemas de 
 └── README.md         # Documentação do projeto
 ```
 
-Ajuste a estrutura conforme os nomes das pastas e arquivos enviados ao repositório.
 
 
 
-## Considerações finais
 
-O projeto demonstra a aplicação de aprendizado de máquina na classificação da qualidade do sono a partir de hábitos digitais.
-
-Os resultados representam o desempenho do modelo na base de dados analisada e não comprovam, por si só, uma relação de causa e efeito entre o uso de telas, o doomscrolling e a qualidade do sono.
-
----
 
 **Projeto acadêmico — Engenharia de Software | UMC**
